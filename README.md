@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryugold777 from Gold Angel Enterprise
+- 👋 Hi, I’m @ryugold777 from Gold Angel Developer
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning to Develop a Game from scratch
 - 💞️ I’m looking to collaborate on GDScript
