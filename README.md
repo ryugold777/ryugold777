@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning to Develop a Game from scratch
 - 💞️ I’m looking to collaborate on GDScript
-- 📫 How to reach me via ryugold27@gmail.com
+- 📫 send me a e-mail to ryugold27@gmail.com
 
 <!---
 ryugold777/ryugold777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
